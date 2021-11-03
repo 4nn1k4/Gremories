@@ -1,1 +1,3 @@
 # Gremories
+
+Gremories ist eine App, mit der der Nutzer Fotos, Videos, Texte, den Standort und Audios in einem Tagebuch speichern kann. Die App ist gerade deshalb so interessant, da im Vergleich zur traditionellen analogen Variante eines Tagebuchs auch Audios und Videos hinzugefügt werden können. In der MainActivity werden alle Einträge des über einen Kalender ausgewählten Monats in einer Liste angezeigt. Über entsprechende Buttons im Menü kann der Nutzer Notifications erstellen oder als zusätzliches Highlight in den "Tagebuch-Modus" wechseln, um sich alle Einträge im Detail anzusehen. Als Annäherung an ein Buch gelangt man durch Wischen im Tagebuch-Modus zur nächsten Erinnerung.
